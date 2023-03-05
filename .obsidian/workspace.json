@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "2e50fa5ede0bd65e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9d1c8206e4dfa4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a50277d2cf86c081",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d752a4168df3481e",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd588de9b51160ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61e332843d34d648",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a004586a72afc80d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "08cf04f30baf6724",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "79e1d6e625b829be",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef484feab050d8d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a46aec4780696bb9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "685f2e84e9f5b1b4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f457049b7e54d107",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b981b7781383a2bb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a50277d2cf86c081",
+  "lastOpenFiles": [
+    "logo.png",
+    "moonwalk_on_windows.md",
+    "_screenshots/lighthouse-report.png",
+    "_screenshots/twitter_card.png",
+    "_screenshots/moonwalk-mono.png",
+    "_screenshots/moonwalk.png",
+    "assets/images/favicon/safari-pinned-tab.svg",
+    "assets/images/favicon/mstile-150x150.png",
+    "assets/images/favicon/favicon-32x32.png",
+    "assets/images/favicon/favicon-16x16.png",
+    "assets/images/favicon/apple-touch-icon.png",
+    "assets/images/favicon/android-chrome-256x256.png",
+    "README.md",
+    "index.md",
+    "_config.yml.sb-1ba39090-ssUxVv",
+    "_config.yml.sb-1ba39090-0kzz0x"
+  ]
+}
