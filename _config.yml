@@ -1,6 +1,6 @@
 title: In the Shadow Garten
 author: anonymoof1528
-url: https://anonymoof.github.io/in-the-shadow-garten/ # root address of the site
+url: https://anonymoof.github.io/In-the-shadow-garten/ # root address of the site
 description: > # description of the site (multiple lines allowed)
   In the garten where shadows groweth, ideas tance and darkness stoweth, for what twas worth sheltering here for thee, a figure stant lone in your midst, declareth with glee; "SCREW YOU DAMN HIGHER CORPORATE BASTARDS AHAHAHAH MY RESIDENCE IS BACK IN MY HANDS, THIS TOWN WILL NEVER BE YOURS TO BLIGHT- oh hey there want some tea?"
 
@@ -20,12 +20,12 @@ theme_config:
   back_home_text: "go back.." # customize text for homepage link in post layout
   appearance_toggle: true # if appearance can be switched by user
   date_format: "%Y-%m-%d" # customize how date is formatted
-  show_description: false # show blog description
+  show_description: true # show blog description
   show_navbar: true # show horizontal navbar
   show_footer: true # show footer links in home page,add in _data/home.yml
   show_copyright: true # show copyright notice in footer
   # following keys are using to create home layout
-  show_projects: true # show projects as cards, add in _data/home.yml
+  show_projects: false # show projects as cards, add in _data/home.yml
   show_blog: false # show blog posts added in _posts
   show_old_projects: false # show old projects as cards, add in _data/home.yml
   show_misc_list: false # show generic vertical list for misc details, add _data/home.yml
